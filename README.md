@@ -1,14 +1,13 @@
 # nokia-toolkit-v1.0
+[!WARNING]
+## Depreciated
  A toolkit for nokia web to view responsive discord, spotify and slovak public transport route planner
 
-#Installation
+ Currently the original hosted domain is shut down
 
-Open this url in opera mini web browser: https://nokia-web-toolkit.com
+ If you want to use it, you need a proper proxy as x-frame bypass doesnt work for discord
+ and ofc a server
+Other pages work from localhost
 
-#Desciption
 
-This toolkit utilize opera mini web browser on nokia phones in order to 
-view apps like discord , spotify and Slovakia public trasport route planner
-**Which they are normally hard to read, but uzing iframe and scale it is 
-responsive enough for nokia 110 and many others**
 
